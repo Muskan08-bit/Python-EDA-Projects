@@ -22,3 +22,6 @@ Data Wrangling, Exploratory Data Analysis (EDA), Data Visualization, Customer Se
 2. Target neutral yet high-spending customers with satisfaction surveys or loyalty incentives.
 3. Run age-based promotions for the 25–30 group with optimized discount strategies.
 4. Segment future campaigns by gender to improve engagement rates.
+
+## 🧠 What I Learned
+This project helped me solidify my skills in real-world data exploration and dashboard storytelling. It also gave me experience in identifying trends that support data-driven decision making — crucial for a role like Data Analyst at Google.
